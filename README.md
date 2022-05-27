@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alvin Murimi
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on React Us projects.
+- 💞️ I’m looking to collaborate on React Js projects.
 - 📫 You can reach me on murimialvin@gmail.com 
 
 <!---
